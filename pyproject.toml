@@ -1,14 +1,14 @@
 [project]
-name = "nanobot-ai"
-version = "0.1.4.post5"
-description = "A lightweight personal AI assistant framework"
+name = "trustworthy-health-agent"
+version = "0.1.0"
+description = "An AI-powered personal health management agent built on the nanobot framework"
 readme = { file = "README.md", content-type = "text/markdown" }
 requires-python = ">=3.11"
 license = {text = "MIT"}
 authors = [
-    {name = "nanobot contributors"}
+    {name = "Jiankang Zheng"}
 ]
-keywords = ["ai", "agent", "chatbot"]
+keywords = ["ai", "agent", "health", "wellness", "nutrition", "fitness"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",

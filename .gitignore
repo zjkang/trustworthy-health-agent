@@ -23,3 +23,15 @@ botpy.log
 nano.*.save
 .DS_Store
 uv.lock
+
+# === Health Agent Private Data ===
+# Personal health profile (contains real health data)
+workspace-health/USER.md
+# Health logs, goals, reminders (personal data)
+workspace-health/health/
+# Conversation history
+workspace-health/sessions/
+# Agent memory (personal facts)
+workspace-health/memory/
+# Heartbeat file (auto-generated)
+workspace-health/HEARTBEAT.md
